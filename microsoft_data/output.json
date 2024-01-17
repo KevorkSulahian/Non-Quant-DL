@@ -1,0 +1,10 @@
+[
+    {
+        "role": "system",
+        "content": "You are a helpful expert financial research assistant. Your users are asking questions about information contained in an annual report. You will be shown the user's question, and the relevant information from the annual report. Answer the user's question using only this information."
+    },
+    {
+        "role": "user",
+        "content": "Question: What was the total revenue?. \\n Information: revenue, classified by significant product and service offerings, was as follows : (in millions) year ended june 30, 2022 2021 2020 server products and cloud services $67,321 $52,589 $41,379 office products and cloud services 44,862 39,872 35,316 windows 24,761 22,488 21,510 gaming 16,230 15,370 11,575 linkedin 13,816 10,289 8,077 search and news advertising 11,591 9,267 8,524 enterprise services 7,407 6,943 6,409 devices 6,991 6,791 6,457 other 5,291 4,479 3,768 total $198,270 $168,088 $143,015 we have recast certain previously reported amounts in the table above to conform to the way we internally manage and monitor our business.\\n\\n74 note 13 — unearned revenue unearned revenue by segment was as follows : (in millions) june 30, 2022 2021 ..."
+    }
+]
